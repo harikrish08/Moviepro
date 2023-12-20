@@ -1,0 +1,17 @@
+  body{
+  background-image: linear-gradient(to right,#C33764,#1D2671);
+  }
+
+ .col-md-3
+ {
+ padding:20px;
+
+}
+ .col-md-6
+ {
+ padding:20px;
+ }
+ .navbar-brand
+ {
+ font-family: fantasy;
+}
